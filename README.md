@@ -1,6 +1,6 @@
 # eperbit
 
-![GitHub License](https://img.shields.io/github/license/Ecologic-Computing/eperbit?style=flat&color=22c55e) [![PyPI - Package Name](https://img.shields.io/pypi/v/ecidcodes?label=ecidcodes)](https://pypi.org/project/ecidcodes/) [![PyPI Downloads](https://img.shields.io/pypi/dm/ecidcodes)](https://pypi.org/project/ecidcodes/) 
+![GitHub License](https://img.shields.io/github/license/Ecologic-Computing/eperbit?style=flat&color=22c55e) [![DOI](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.18684348-blue)](https://doi.org/10.5281/zenodo.18684348)  [![PyPI - Package Name](https://img.shields.io/pypi/v/ecidcodes?label=ecidcodes)](https://pypi.org/project/ecidcodes/) [![PyPI Downloads](https://img.shields.io/pypi/dm/ecidcodes)](https://pypi.org/project/ecidcodes/) 
 [![Last Updated](https://img.shields.io/github/last-commit/Ecologic-Computing/eperbit)](https://github.com/Ecologic-Computing/eperbit/commits)
 
 Energy per bit measurements for ID codes.
@@ -254,11 +254,3 @@ See `LICENSE` and `COPYING` for full licensing details.
 Copyright (c) 2026 Ecologic Computing GmbH <info@ecologic-computing.com>
 
 Visit [ecologic-computing.com/research](https://www.ecologic-computing.com/research) for more details.
-
-## **Citation**
-
-To cite this dataset use the following BibTeX entry:
-```
-@software{Ali_eperbit_Energy_per_2026, author = {Ali, Sheikh Usman}, doi = {10.5281/zenodo.18684348}, month = feb, title = {{eperbit: Energy per bit measurements for ID codes}}, url = {https://github.com/Ecologic-Computing/eperbit}, version = {0.1.0}, year = {2026} }
-```
----
