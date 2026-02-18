@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ali"
+  given-names: "Sheikh Usman"
+  orcid: "https://orcid.org/0000-0002-3741-8596"
+title: "eperbit: Energy per bit measurements for ID codes"
+version: 0.1.0
+doi: 10.5281/zenodo.18684348
+date-released: 2026-02-16
+url: "https://github.com/Ecologic-Computing/eperbit"
