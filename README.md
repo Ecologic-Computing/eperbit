@@ -254,3 +254,11 @@ See `LICENSE` and `COPYING` for full licensing details.
 Copyright (c) 2026 Ecologic Computing GmbH <info@ecologic-computing.com>
 
 Visit [ecologic-computing.com/research](https://www.ecologic-computing.com/research) for more details.
+
+## **Citation**
+
+To cite this dataset use the following BibTeX entry:
+```
+@software{Ali_eperbit_Energy_per_2026, author = {Ali, Sheikh Usman}, doi = {10.5281/zenodo.18684348}, month = feb, title = {{eperbit: Energy per bit measurements for ID codes}}, url = {https://github.com/Ecologic-Computing/eperbit}, version = {0.1.0}, year = {2026} }
+```
+---
