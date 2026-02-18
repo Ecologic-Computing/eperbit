@@ -1,0 +1,24 @@
+System Temperature at START: 54.5 °C
+START:::===== 2026-02-12 15:05:09 =====
+Running RSID-64, vec_len=256,Iter=24066230
+========================================
+Option: gf2_exp Value: 64
+Option: id_code_type Value: RSID
+Option: vec_len Value: 256
+Option: csv_file_path Value: ./
+Option: data_type Value: random
+Option: force Value: 
+Option: gf2_exp Value: 
+Option: id_code_type Value: 
+Option: input_data Value: HelloWorld
+Option: n_iter Value: 24066230
+Option: rm_order Value: 1
+Option: rs2_inner_tag_pos Value: 2
+Option: tag_pos Value: 2
+Option: vec_len Value: 
+Vector Length (bytes): 256 Generated message size (symbols): 32 GF exponent: 64
+RSID took on Average 878.55 nsec for 64-bit with 24066230 iterations.  in total : 21143459 microseconds. 
+DONE
+System Temperature at END: 54.5 °C
+Finished Benchmark: RSID-, vec_len=256., Iter=24066230
+END:::===== 2026-02-12 15:05:34 =====

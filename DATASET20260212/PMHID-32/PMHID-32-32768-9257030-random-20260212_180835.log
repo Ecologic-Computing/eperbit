@@ -1,0 +1,24 @@
+System Temperature at START: 55.6 °C
+START:::===== 2026-02-12 18:12:17 =====
+Running PMHID-32, vec_len=32768,Iter=9257030
+========================================
+Option: gf2_exp Value: 32
+Option: id_code_type Value: PMHID
+Option: vec_len Value: 32768
+Option: csv_file_path Value: ./
+Option: data_type Value: random
+Option: force Value: 
+Option: gf2_exp Value: 
+Option: id_code_type Value: 
+Option: input_data Value: HelloWorld
+Option: n_iter Value: 9257030
+Option: rm_order Value: 1
+Option: rs2_inner_tag_pos Value: 2
+Option: tag_pos Value: 2
+Option: vec_len Value: 
+Vector Length (bytes): 32768 Generated message size (symbols): 8192 GF exponent: 32
+PMHID took on Average 2092.13 nsec for 32-bit with 9257030 iterations.  in total : 19366922 microseconds. 
+DONE
+System Temperature at END: 56.2 °C
+Finished Benchmark: PMHID-, vec_len=32768., Iter=9257030
+END:::===== 2026-02-12 18:12:41 =====

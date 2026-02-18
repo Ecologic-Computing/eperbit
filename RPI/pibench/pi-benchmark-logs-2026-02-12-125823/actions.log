@@ -1,0 +1,33 @@
+Stopping optional services...
+accounts-daemon not running
+avahi-daemon not running
+Stopping bluetooth
+cups not running
+cups-browsed not running
+ModemManager not running
+triggerhappy not running
+udisks2 not running
+rtkit-daemon not running
+cron not running
+getty@tty1 not running
+serial-getty@ttyAMA10 not running
+avahi-daemon not running
+Stopping bluetooth
+accounts-daemon not running
+bluetoothd not running
+hciuart not running
+ModemManager not running
+triggerhappy not running
+cups not running
+cups-browsed not running
+alsa-state not running
+pipewire not running
+pipewire-pulse not running
+pulseaudio not running
+lightdm not running
+gdm not running
+sddm not running
+plymouth not running
+apt-daily not running
+apt-daily-upgrade not running
+SSH is running ✔

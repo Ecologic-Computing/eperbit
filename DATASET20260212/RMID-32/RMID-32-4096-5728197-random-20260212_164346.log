@@ -1,0 +1,24 @@
+System Temperature at START: 57.3 °C
+START:::===== 2026-02-12 16:47:06 =====
+Running RMID-32, vec_len=4096,Iter=5728197
+========================================
+Option: gf2_exp Value: 32
+Option: id_code_type Value: RMID
+Option: vec_len Value: 4096
+Option: csv_file_path Value: ./
+Option: data_type Value: random
+Option: force Value: 
+Option: gf2_exp Value: 
+Option: id_code_type Value: 
+Option: input_data Value: HelloWorld
+Option: n_iter Value: 5728197
+Option: rm_order Value: 1
+Option: rs2_inner_tag_pos Value: 2
+Option: tag_pos Value: 2
+Option: vec_len Value: 
+Vector Length (bytes): 4096 Generated message size (symbols): 1024 GF exponent: 32
+RMID took on Average 3444.34 nsec for 32-bit with 5728197 iterations.  in total : 19729838 microseconds. 
+DONE
+System Temperature at END: 57.3 °C
+Finished Benchmark: RMID-, vec_len=4096., Iter=5728197
+END:::===== 2026-02-12 16:47:29 =====

@@ -1,0 +1,24 @@
+System Temperature at START: 56.8 °C
+START:::===== 2026-02-12 17:39:28 =====
+Running SHA256ID-32, vec_len=128,Iter=4567555
+========================================
+Option: gf2_exp Value: 32
+Option: id_code_type Value: SHA256ID
+Option: vec_len Value: 128
+Option: csv_file_path Value: ./
+Option: data_type Value: random
+Option: force Value: 
+Option: gf2_exp Value: 
+Option: id_code_type Value: 
+Option: input_data Value: HelloWorld
+Option: n_iter Value: 4567555
+Option: rm_order Value: 1
+Option: rs2_inner_tag_pos Value: 2
+Option: tag_pos Value: 2
+Option: vec_len Value: 
+Vector Length (bytes): 128 Generated message size (symbols): 32 GF exponent: 32
+SHA256ID took on Average 4507.79 nsec for 32-bit with 4567555 iterations.  in total : 20589559 microseconds. 
+DONE
+System Temperature at END: 56.8 °C
+Finished Benchmark: SHA256ID-, vec_len=128., Iter=4567555
+END:::===== 2026-02-12 17:39:53 =====

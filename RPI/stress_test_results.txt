@@ -1,0 +1,32 @@
+vcgencmd get_config usb_max_current_enable
+https://www.youtube.com/watch?v=PddIeZP-wgw
+https://www.youtube.com/watch?v=PddIeZP-wgw
+sudo rpi-eeprom-config --edit
+PSU_MAX_CURRENT=5000 
+https://forums.raspberrypi.com/viewtopic.php?t=325332
+sudo rfkill block wifi; sudo rfkill block bluetooth
+$ stress-ng --matrix 0 -t 60s --metrics-brief
+stress-ng: info:  [2280] setting to a 60 second run per stressor
+stress-ng: info:  [2280] dispatching hogs: 4 matrix
+stress-ng: metrc: [2280] stressor       bogo ops real time  usr time  sys time   bogo ops/s     bogo ops/s
+stress-ng: metrc: [2280]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: metrc: [2280] matrix           913694     60.00    239.95      0.01     15228.23        3807.73
+stress-ng: metrc: [2280] miscellaneous metrics:
+stress-ng: metrc: [2280] matrix            291326.71 add matrix ops per sec (geometic mean of 4 instances)
+stress-ng: metrc: [2280] matrix            318939.17 copy matrix ops per sec (geometic mean of 4 instances)
+stress-ng: metrc: [2280] matrix             90495.95 div matrix ops per sec (geometic mean of 4 instances)
+stress-ng: metrc: [2280] matrix             67631.13 frobenius matrix ops per sec (geometic mean of 4 instances)
+stress-ng: metrc: [2280] matrix            243220.74 hadamard matrix ops per sec (geometic mean of 4 instances)
+stress-ng: metrc: [2280] matrix            128483.84 identity matrix ops per sec (geometic mean of 4 instances)
+stress-ng: metrc: [2280] matrix            252688.45 mean matrix ops per sec (geometic mean of 4 instances)
+stress-ng: metrc: [2280] matrix            411553.37 mult matrix ops per sec (geometic mean of 4 instances)
+stress-ng: metrc: [2280] matrix            242027.22 negate matrix ops per sec (geometic mean of 4 instances)
+stress-ng: metrc: [2280] matrix               526.08 prod matrix ops per sec (geometic mean of 4 instances)
+stress-ng: metrc: [2280] matrix            286876.94 sub matrix ops per sec (geometic mean of 4 instances)
+stress-ng: metrc: [2280] matrix               586.03 square matrix ops per sec (geometic mean of 4 instances)
+stress-ng: metrc: [2280] matrix            119802.35 trans matrix ops per sec (geometic mean of 4 instances)
+stress-ng: metrc: [2280] matrix            754222.27 zero matrix ops per sec (geometic mean of 4 instances)
+stress-ng: info:  [2280] successful run completed in 60.00s (1 min, 0.00 secs)
+
+
+
